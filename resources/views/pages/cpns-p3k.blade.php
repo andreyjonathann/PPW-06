@@ -28,7 +28,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> 
 
     <section class="bg-white">
         <div class="mx-auto max-w-6xl px-4 py-16 sm:px-6 lg:px-8">
